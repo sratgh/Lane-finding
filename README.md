@@ -1,6 +1,7 @@
 # Car Nanodegree - Finding lanes
 This first project of the autonomous driving nanodegree is about finding lanes from given pictures and videos with classic image processing. There is a second project "Advanced Lane Lines" which will cover more aspects of classic image processing up to the state of the art.
-
+![Example Image](https://github.com/sratgh/Lane-finding/blob/master/test_images/solidWhiteCurve.jpg)
+![Final Output](https://github.com/sratgh/Lane-finding/blob/master/test_images_output/writeup/final_solidWhiteCurve.jpg)
 ## Installation / Setup
 
 There are two ways of running this project:
